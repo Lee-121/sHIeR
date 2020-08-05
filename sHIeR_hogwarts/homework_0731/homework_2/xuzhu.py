@@ -6,7 +6,7 @@
 
 """
 
-#import TongLao
+import TongLao
 
 # 定义XuZhu方法
 class XuZhu（TongLao）:
