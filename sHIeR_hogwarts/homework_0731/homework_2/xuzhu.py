@@ -6,7 +6,7 @@
 
 """
 
-import TongLao
+
 
 # 定义XuZhu方法
 class XuZhu（TongLao）:
@@ -14,5 +14,5 @@ class XuZhu（TongLao）:
     def read(self):
         print("罪过罪过")
 
-x = XuZhu
+x = XuZhu()
 x.read()
