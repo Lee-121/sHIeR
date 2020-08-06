@@ -26,5 +26,5 @@ class TestCalc:
         #调用add方法
         r = calc.add(-1,-3)
         #断言
-        assert -4 == rr
+        assert -4 == r
 
